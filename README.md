@@ -10,6 +10,7 @@
 []()
 
 [ВПР]
+
 |[1-й Вариант](https://docs.google.com/document/d/1KYMbko5C4RJKan39T7v3B0l_3xPdbDNNPJRN7qHMsOc/edit?usp=drive_link)|[2-й Вариант]()
 
 [Практическая работа от 03.10.2024](https://docs.google.com/document/d/13rCXcS0bvQG-hyjqxW5fAc8Yy1MY7g_H6aZDURFssVs/edit?usp=drive_link)
