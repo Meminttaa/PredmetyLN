@@ -11,5 +11,5 @@
 
 |[1-й Вариант](https://docs.google.com/document/d/1Ssf0Se6B_B-q-tuB3_6TePF_9whJztGQWdrfQ-mFgJQ/edit?usp=drive_link)|[2-й Вариант](https://docs.google.com/document/d/19UnxxxQgUOfXv6jMnDnHOknNeVwdczw3e8ACeJnosAE/edit?usp=sharing)|
 
-[Практическая работа от 03.10.2024](https://docs.google.com/document/d/13rCXcS0bvQG-hyjqxW5fAc8Yy1MY7g_H6aZDURFssVs/edit?usp=drive_link)
+[Практическая работа от 03.10.2024](https://docs.google.com/document/d/1yzOam9JPH0NIB2sUWf-EL_jeSOI27XuLAf1zk1D4M2U/edit?usp=sharing)
 
