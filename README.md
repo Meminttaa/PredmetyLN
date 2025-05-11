@@ -5,7 +5,7 @@
 
 [Конспект по теме "Базы данных"](https://docs.google.com/document/d/1KYMbko5C4RJKan39T7v3B0l_3xPdbDNNPJRN7qHMsOc/edit?usp=sharing)
 
-[Конспект по теме "История ОС"](https://docs.google.com/document/d/1KYMbko5C4RJKan39T7v3B0l_3xPdbDNNPJRN7qHMsOc/edit?usp=drive_link)
+[Конспект по теме "История ОС"](https://docs.google.com/document/d/1wapcIaBCrFW3MIDV8shgt2J3JbwGlMecwyea_dgfY8E/edit?usp=sharing)
 
 [ВПР]
 
