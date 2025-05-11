@@ -3,7 +3,7 @@
 
 [Папка со всеми файлами](https://drive.google.com/drive/folders/1-3CklMF6GTIPydXZA-zVH5KEaIriJX6-?usp=drive_link)
 
-[Конспект по теме "Базы данных"](https://drive.google.com/drive/folders/1-3CklMF6GTIPydXZA-zVH5KEaIriJX6-?usp=drive_link)
+[Конспект по теме "Базы данных"](https://docs.google.com/document/d/1KYMbko5C4RJKan39T7v3B0l_3xPdbDNNPJRN7qHMsOc/edit?usp=sharing)
 
 [Конспект по теме "История ОС"](https://docs.google.com/document/d/1KYMbko5C4RJKan39T7v3B0l_3xPdbDNNPJRN7qHMsOc/edit?usp=drive_link)
 
